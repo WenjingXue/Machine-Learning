@@ -2,16 +2,6 @@
 
 Author: [github.com/wenjingxue](https://github.com/wenjingxue)
 
-[General Data Structure](#general-data-structure)  
-[Leet code solutions](#leetcode-solution-in-python)
-
-### General Data Structure
-Those can speed up the problem solving.
-
-\# | Name | Use | Wiki Link
----|---|---|---
-1 | [Trie]() | String/Dictionary | https://en.wikipedia.org/wiki/Trie
-
 
 ### LeetCode Solution in Python
 
